@@ -1,2 +1,2 @@
 # Java-Cash-Program
-This is a java console program that uses oop programming and file i/o and storage to function as a cashier app. 
+ A java console program that uses oop programming and file i/o and storage to function as a cashier app. Once logged in, the employee can access various function including, looking up an item (price and item number), scheduling options for their shift and the cash register, which allows them to add items and look up items at the same time. The manager options include the same thing expect they have the ability to add and remove employees. The item info, and employee info is all stored in a text file and fetched by the program and sliced accordingly 
